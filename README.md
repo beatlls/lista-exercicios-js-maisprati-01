@@ -22,9 +22,20 @@ Este repositório contém os exercícios passados pelo professor Jaque Antunes, 
 
 ┣ 📜 9-contagem-regressiva.js
 
-┣ 📜 
-┣ 📜 
-┣ 📜 
-┣ 📜 
-┣ 📜 
-┣ 📜 
+┣ 📜 10-num-dez-vezes.js
+
+┣ 📜 11-cinco-numeros.js
+
+┣ 📜 12-tabuada.js
+
+┣ 📜 13-números-decimais.js
+
+┣ 📜 14-fatorial.js
+
+┣ 📜 15-fibonacci.js
+
+## 🚀 Tecnologias utilizadas
+
+- [Node.js](https://nodejs.org/)
+  
+- [prompt-sync](https://www.npmjs.com/package/prompt-sync)
