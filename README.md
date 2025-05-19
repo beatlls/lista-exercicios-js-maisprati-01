@@ -59,16 +59,19 @@ Para rodar este projeto, você precisa ter o **Node.js** instalado na sua máqui
 
 <h2> 1. Clone o repositório </h2>
 
-git clone https://github.com/beatlls/lista-exercicios-js-maisprati.git
+> ```bash
+> git clone https://github.com/beatlls/lista-exercicios-js-maisprati.git
 
 <h2> 2. Acesse a pasta do projeto </h2>
 
-cd lista-exercícios-js-maisprati
+> ```bash
+> cd lista-exercícios-js-maisprati
 
 <h2> 3. Instale a biblioteca do 'prompt-sync' </h2>
 
 Rode o seguinte comando:
 
-npm install prompt-sync
+> ```bash
+> npm install prompt-sync
 
 <h2> 4. E pronto! Já pode rodar os comandos no terminal :) </h2>
