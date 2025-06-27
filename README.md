@@ -1,4 +1,4 @@
-# Lista de Exercícios em JavaScript
+# Lista 01 de Exercícios em JavaScript
 
 Este repositório contém os exercícios passados pelo professor Jaque Antunes, do curso de "Desenvolvedor Full Stack Jr." da +PraTi. 
 
